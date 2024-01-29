@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lianne</h1>
-<h3 align="center">A proud woman who can code.</h3>
+<h3 align="center">A woman who can code</h3>
 
 - 🌱 I’m currently learning **Software Engineering and Web Applications Development**
 
